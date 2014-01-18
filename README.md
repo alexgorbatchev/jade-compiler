@@ -3,7 +3,10 @@
 A handy [Jade](http://jade-lang.com/) compiler from a series of compilers that have the same signature.
 
 [![Dependency status](https://david-dm.org/alexgorbatchev/jade-compiler.png)](https://david-dm.org/alexgorbatchev/jade-compiler)
-[![Build Status](https://travis-ci.org/alexgorbatchev/jade-compiler.png)](https://travis-ci.org/alexgorbatchev/jade-compiler)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/jade-compiler/dev-status.png)](https://david-dm.org/alexgorbatchev/jade-compiler#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/alexgorbatchev/jade-compiler.png?branch=master)](https://travis-ci.org/alexgorbatchev/jade-compiler)
+
+[![NPM](https://nodei.co/npm/jade-compiler.png?downloads=true)](https://npmjs.org/package/jade-compiler)
 
 ## Support
 
