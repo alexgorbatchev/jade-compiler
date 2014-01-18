@@ -8,7 +8,7 @@ jade   = require '../jade-compiler.js'
 expect = chai.expect
 
 SOURCE = """
-!!!
+doctype html
 html
   title Hello World
 """
