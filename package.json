@@ -25,11 +25,11 @@
     "jade": ">=0.35.0"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.3",
-    "chai": "~1.8.1",
-    "mocha": "~1.17.0",
-    "fibrous": "~0.3.3",
-    "jade": "~1.1.4",
+    "coffee-script": "~1.12.2",
+    "chai": "~3.5.0",
+    "mocha": "~3.2.0",
+    "fibrous": "~0.4.0",
+    "jade": "~1.11.0",
     "coffee-errors": "~0.8.5"
   }
 }
